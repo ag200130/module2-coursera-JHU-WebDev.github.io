@@ -1,1 +1,1 @@
-# coursera-WebDev-JHU
+# Coursera - Web Development -John Hopkins University solutions
