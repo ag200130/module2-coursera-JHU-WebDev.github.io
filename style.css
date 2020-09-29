@@ -34,7 +34,7 @@
     border:	3px solid black;
 	  background: #89f785;
     width: 100%;
-    height: 200px;
+    height: auto;
     color: black;
     position: relative;
     overflow: auto;
