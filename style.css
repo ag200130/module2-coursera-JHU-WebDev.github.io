@@ -31,10 +31,9 @@
     padding: 5px;
   }
   section {
-    border:	3px solid black;
-	  background: #89f785;
+    border: 3px solid black;
+    background: #89f785;
     width: 100%;
-    height: auto;
     color: black;
     position: relative;
     overflow: auto;
